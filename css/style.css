@@ -25,7 +25,7 @@ h3{
   color: #11999E;
 }
 a{
-  color: #11999E;
+  color: #fff;
 }
 a:hover{
   color: #EAF6F6;
@@ -110,11 +110,11 @@ hr{
 .individual-skill{
   font-weight:bold;
 }
-.mountain {
+/* .mountain {
     margin-top: 100px;
     position: relative;
     top: 100px;
-}
+} */
 .skill-row{
   margin: 100px auto 0 auto;
   width: 50%;
